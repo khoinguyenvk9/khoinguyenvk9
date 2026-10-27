@@ -40,8 +40,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/output/github-snake-dark.svg?v=2">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/output/github-snake.svg?v=2">
 </picture>
 
 </div>
