@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/snake.yml]
+    paths: [.github/workflows/snake.yml, .github/scripts/dragonize.py]
 
 permissions:
   contents: write
@@ -16,12 +16,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - run: python3 .github/scripts/dragonize.py dist/github-snake.svg dist/github-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
