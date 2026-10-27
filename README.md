@@ -1,23 +1,40 @@
-# Khoi Nguyen
+<div align="center">
 
-Frontend developer. I build web apps with TypeScript, React and Next.js, and I like tidy tooling and small, well-made things.
+<h1>Khoi Nguyen</h1>
 
-<br>
+<p>Frontend developer · TypeScript · React · Next.js</p>
 
-### Languages
+<sub>I like tidy tooling and small, well-made things.</sub>
 
-`TypeScript` · `JavaScript` · `HTML` · `CSS` · `Python` · `Lua` · `Shell`
+<br><br>
 
-### Frameworks & libraries
+<a href="mailto:khoinguyenvk9@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/khoinguyenvk9"><img src="https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-`React` · `Next.js` · `Astro` · `Node.js`
-
-### Tooling
-
-`Git` · `Neovim` · `Monorepo` · `Telegram bots`
+</div>
 
 <br>
 
-### Elsewhere
+<div align="center">
 
-[Email](mailto:khoinguyenvk9@gmail.com)
+<sub>LANGUAGES</sub>
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,py,lua,bash&perline=7" alt="Languages">
+
+<br>
+
+<sub>FRAMEWORKS</sub>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,nodejs&perline=4" alt="Frameworks">
+
+<br>
+
+<sub>TOOLING</sub>
+
+<img src="https://skillicons.dev/icons?i=tailwind,docker,git,neovim&perline=4" alt="Tooling">
+
+<br><br>
+
+<sub>Also: Monorepo · Telegram bots</sub>
+
+</div>
