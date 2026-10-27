@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Khoi Nguyen</h1>
-<p align="center">Frontend Developer · React · TypeScript · Next.js</p>
+# Khoi Nguyen
 
-## 🛠 Tech stack
+Frontend developer. I build web apps with TypeScript, React and Next.js, and I like tidy tooling and small, well-made things.
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+<br>
 
-## 📊 GitHub stats
+### Languages
 
-![Stats](https://github-readme-stats.vercel.app/api?username=khoinguyenvk9&show_icons=true&theme=tokyonight)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenvk9&layout=compact&theme=tokyonight)
+`TypeScript` · `JavaScript` · `HTML` · `CSS` · `Python` · `Lua` · `Shell`
 
-## 📫 Contact
+### Frameworks & libraries
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:khoinguyenvk9@gmail.com)
+`React` · `Next.js` · `Astro` · `Node.js`
+
+### Tooling
+
+`Git` · `Neovim` · `Monorepo` · `Telegram bots`
+
+<br>
+
+### Elsewhere
+
+[Email](mailto:khoinguyenvk9@gmail.com)
