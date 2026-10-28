@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-hero.svg?v=4" alt="Khoi Nguyen, Mobile and Web Developer" width="880">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-dark.webp">
+  <img src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-light.webp" alt="Khoi Nguyen, Mobile and Web Developer. A 3D fire dragon flies around the text." width="880">
+</picture>
 
 <br><br>
 
