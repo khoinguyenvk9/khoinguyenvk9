@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-hero.svg?v=1" alt="Khoi Nguyen, Mobile and Web Developer" width="880">
+<img src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-hero.svg?v=2" alt="Khoi Nguyen, Mobile and Web Developer" width="880">
 
 <br><br>
 
