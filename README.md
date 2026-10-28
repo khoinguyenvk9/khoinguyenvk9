@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-hero-3d.svg?v=1" alt="Hi, I'm Khoi Nguyen. Mobile and Web Developer. A 3D fire dragon flies around the text." width="880">
+<img src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-hero-3d-v2.svg?v=1" alt="Hi, I'm Khoi Nguyen. Mobile and Web Developer. A 3D fire dragon flies around the text." width="880">
 
 <br><br>
 
