@@ -1,10 +1,6 @@
 <div align="center">
 
-<h1>Khoi Nguyen</h1>
-
-<p>Frontend developer · TypeScript · React · Next.js</p>
-
-<sub>I like tidy tooling and small, well-made things.</sub>
+<img src="https://raw.githubusercontent.com/khoinguyenvk9/khoinguyenvk9/main/assets/dragon-hero.svg?v=1" alt="Khoi Nguyen, Mobile and Web Developer" width="880">
 
 <br><br>
 
